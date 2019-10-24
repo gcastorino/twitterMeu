@@ -1,0 +1,25 @@
+/* icon */
+
+.icon--small {
+  width: 15px;
+  height: 15px;
+}
+
+.icon {
+  width: 25px;
+  height: auto;
+  opacity : 0.5; 
+  margin: 0px 3px -3px 3px;
+}
+
+.icon--active {
+  opacity : 1;
+}
+
+.icon_report{
+  float: right;
+  position: relative;
+  width: 25px;
+  height: auto;
+  margin: 0px 3px -3px 3px;
+}
